@@ -1,0 +1,25 @@
+{
+    "name": "ottabit-theme",
+    "displayName": "Ottabit-Theme",
+    "description": "Ottabit Theme",
+    "version": "0.0.3",
+    "publisher": "Ottabit",
+    "engines": {
+        "vscode": "^1.62.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Ottabit Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Ottabit Theme-color-theme.json"
+            }
+        ]
+    },
+    "dependencies": {
+        "vsce": "^1.100.2"
+    }
+}
