@@ -2076,7 +2076,7 @@
 	  "peekViewTitle.background": "#1e1e1e",
 	  "peekViewTitleDescription.foreground": "#ccccccb3",
 	  "peekViewTitleLabel.foreground": "#ffffff",
-	  "icon.foreground": "#fd2020",
+	  "icon.foreground": "#FFFFFF",
 	  "checkbox.background": "#000000",
 	  "checkbox.foreground": "#ffffff",
 	  "checkbox.border": "#00000000",
